@@ -1,5 +1,3 @@
-import { store } from "../.."
-
 const eventList = document.querySelector("#event-list")
 
 const renderEvent = event =>
